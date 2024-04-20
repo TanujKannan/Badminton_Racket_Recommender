@@ -133,8 +133,6 @@ pyobjc-framework-Cocoa==10.1
 pyobjc-framework-CoreServices==10.1
 pyobjc-framework-FSEvents==10.1
 PyQt5==5.15.10
-PyQt5-Qt5==5.15.12
-PyQt5-sip==12.13.0
 PyQtWebEngine==5.15.6
 PyQtWebEngine-Qt5==5.15.12
 python-dateutil==2.8.2
